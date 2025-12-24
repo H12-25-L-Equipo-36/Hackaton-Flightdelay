@@ -8,7 +8,6 @@ Descripción breve:
 
 Si el `git push` falla por autenticación, configura un token de acceso (PAT) o usa una clave SSH.
 
-Nota: los mensajes de commit se manejarán en español.
 
 Para subir localmente (ejemplo):
 ```
