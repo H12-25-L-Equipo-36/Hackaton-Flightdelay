@@ -4,7 +4,11 @@ Thumbs.db
 *.log
 .vscode/
 .idea/
+*.iml
+*.iws
+*.ipr
 *.swp
+.idea
 
 # Java / Spring (Backend)
 **/target/
@@ -37,3 +41,15 @@ pnpm-debug.log*
 
 # Testing
 **/coverage/
+
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+*.db
+
