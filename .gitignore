@@ -37,3 +37,14 @@ pnpm-debug.log*
 
 # Testing
 **/coverage/
+
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
