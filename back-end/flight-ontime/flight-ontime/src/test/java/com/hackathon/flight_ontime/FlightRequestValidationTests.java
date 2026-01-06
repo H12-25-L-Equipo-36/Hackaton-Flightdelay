@@ -1,6 +1,6 @@
 package com.hackathon.flight_ontime;
 
-import com.hackathon.flight_ontime.dto.DataRequest;
+import com.hackathon.flight_ontime.DTO.DataRequest;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validation;
 import jakarta.validation.Validator;
