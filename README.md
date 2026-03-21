@@ -2,7 +2,24 @@
 
 # ✈️ FlightOnTime - Flight Delay Predictor
 
-Executive summary of the project for the **Flight Delay Hackathon**. This system integrates Artificial Intelligence to predict whether a flight will be delayed based on historical and real-time data.
+FlightOnTime is a full-stack application developed during a hackathon to predict flight delays using Machine Learning. The system integrates a Java Spring Boot backend with a Python-based AI microservice, following a microservices architecture.
+
+The project demonstrates real-world backend development, service integration, and collaborative work in a fast-paced environment.
+
+## 🌐 Live Demo
+
+👉 [https://flightdelay-app.vercel.app](https://frontend-three-tawny-47.vercel.app/)
+
+Interact with the application and get real-time flight delay predictions using the deployed system.
+
+## 🧪 How to Use
+
+1. Open the live demo  
+2. Enter flight information  
+3. Submit the request  
+4. Receive a delay prediction from the ML model
+
+The system processes the request through the backend and communicates with the AI microservice to generate predictions.
 
 ## 🚀 Project Architecture
 
